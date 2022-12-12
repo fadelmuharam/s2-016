@@ -46,7 +46,7 @@ if len(sys.argv) == 2:
 
 else: 
     print("======================================================")
-    print("#     Usage: python s2-016.py http://site.com     #")
+    print("#     Usage: python s2-016.py http://site.com        #")
     print("======================================================")
     sys.exit()
     
