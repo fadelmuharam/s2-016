@@ -6,4 +6,4 @@ The Apache Struts 2 DefaultActionMapper supports a method for short-circuit navi
 
 Usage: $ python s2-016.py http://site.com
 
-"https://struts.apache.org/docs/s2-016.html"
+# https://struts.apache.org/docs/s2-016.html
