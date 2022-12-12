@@ -1,8 +1,7 @@
 #!/usr/bin/python
 #
 # coding=utf-8
-#
-# Struts 2 DefaultActionMapper Exploit [S2-016]
+
 # Interactive Shell for CVE-2013-2251
 #
 # The Struts 2 DefaultActionMapper supports a method for short-circuit navigation state changes by prefixing parameters with
