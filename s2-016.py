@@ -19,7 +19,6 @@ import readline
 # Disable SSL
 requests.packages.urllib3.disable_warnings()
 
-# ShellEvil 
 print("======================================================")
 print("#    Struts 2 DefaultActionMapper Exploit [S2-016]   #")
 print("#         Interactive Shell for CVE-2013-2251        #")
